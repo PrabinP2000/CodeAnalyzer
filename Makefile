@@ -31,6 +31,7 @@ $(TARGET): $(OBJS)
 $(BIN_DIR):
 	mkdir -p $(BIN_DIR)	
 
+
 # Clean up
 clean:
 	rm -f $(OBJS) $(TARGET)
