@@ -19,6 +19,10 @@ int main(int argc, char *argv[])
     while (fgets(line, sizeof(line), fp)) 
     {
         line_number++;
+        if (strlen(line) == 0) 
+        continue;
+        check_declaration(line, line_number);
+        variable_usage(line);
         p = check_for_comments_line(line);
         if(p)
         {
@@ -30,6 +34,7 @@ int main(int argc, char *argv[])
         }
     }
     fclose(fp);
+    is_all_variable_used();
     return 0;
 
 }

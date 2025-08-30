@@ -1,5 +1,11 @@
 
- please remove the commented line if not needed : 8 : //dsfgdg /*jhdfsghi */
+ please remove the commented line if not needed : 9 : /*hsgduagd //dfsigdfg*/
+  
+
+ please remove the commented line if not needed : 12 : //this is a comment
+  
+
+ please remove the commented line if not needed : 25 : /* get_file_type*/
   
 
  please remove the commented line if not needed : 9 : /*hsgduagd //dfsigdfg*/
@@ -10,4 +16,49 @@
 
  please remove the commented line if not needed : 25 : /* get_file_type*/
   
+
+ please remove the commented line if not needed : 9 : /*hsgduagd //dfsigdfg*/
   
+
+ please remove the commented line if not needed : 12 : //this is a comment
+  
+
+ please remove the commented line if not needed : 25 : /* get_file_type*/
+  
+
+  Variable n not used 
+
+  Variable j not used 
+
+  Variable a[10] not used 
+
+  Variable t not used 
+
+  Variable i not used 
+
+  Variable z not used 
+
+  Variable q not used 
+
+ please remove the commented line if not needed : 9 : /*hsgduagd //dfsigdfg*/
+  
+
+ please remove the commented line if not needed : 12 : //this is a comment
+  
+
+ please remove the commented line if not needed : 25 : /* get_file_type*/
+  
+
+  Variable n not used 
+
+  Variable j not used 
+
+  Variable a[10] not used 
+
+  Variable t not used 
+
+  Variable i not used 
+
+  Variable z not used 
+
+  Variable q not used 

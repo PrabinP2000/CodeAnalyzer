@@ -3,7 +3,8 @@
 
 int main()
 {
-   int n,i,j,a[10],t;
+   int n,j,a[10],t;
+   int i,n,z,q;
    scanf("%d",&n);
    /*hsgduagd //dfsigdfg*/
    for(i=0;i<n;i++)
